@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d Presonal-Website"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://BhattAnsh.github.io/Portfolio",
   "dependencies": {
     "gh-pages": "^5.0.0"
   }
