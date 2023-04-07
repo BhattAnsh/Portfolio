@@ -821,6 +821,7 @@ hr{
 }
 
 .icon {
+  color: white;
   position: relative;
   background: grey;
   border-radius: 50%;
